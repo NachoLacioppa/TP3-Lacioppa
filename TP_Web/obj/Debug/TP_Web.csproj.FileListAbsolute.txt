@@ -35,3 +35,17 @@ C:\Users\Ignacio\Desktop\tp3Lacioppa\primera-app-2019-2-master\TP_Web\obj\Debug\
 C:\Users\Ignacio\Desktop\tp3Lacioppa\primera-app-2019-2-master\TP_Web\obj\Debug\TP_Web.csproj.CopyComplete
 C:\Users\Ignacio\Desktop\tp3Lacioppa\primera-app-2019-2-master\TP_Web\obj\Debug\TP_Web.dll
 C:\Users\Ignacio\Desktop\tp3Lacioppa\primera-app-2019-2-master\TP_Web\obj\Debug\TP_Web.pdb
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\bin\TP_Web.dll.config
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\bin\TP_Web.dll
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\bin\TP_Web.pdb
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\bin\Dominio.dll
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\bin\Negocio.dll
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\bin\Dominio.pdb
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\obj\Debug\TP_Web.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\obj\Debug\TP_Web.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\obj\Debug\TP_Web.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\obj\Debug\TP_Web.dll
+C:\Users\Usuario\Desktop\TP3-Lacioppa\TP_Web\obj\Debug\TP_Web.pdb

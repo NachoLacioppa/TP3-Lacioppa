@@ -16,7 +16,7 @@ namespace Negocio
 
         public AccesoDatos()
         {
-            conexion = new SqlConnection("data source=NACHOPC\\SQLEXPRESS; initial catalog=TP_WEB; integrated security=sspi");
+            conexion = new SqlConnection("data source=localhost\\SQLEXPRESS; initial catalog=TP_WEB; integrated security=sspi");
             comando = new SqlCommand();
             comando.Connection = conexion;
             affectedRows = 0;

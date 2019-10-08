@@ -12,7 +12,7 @@
             <div class="card-body">
                 <h5 class="card-title"><% = item.Titulo %></h5>
                 <p class="card-text"><% = item.Descripcion %></p>
-                <asp:Button ID="btnPremio" runat="server" Text="Quiero Este!" class="btn btn-outline-success" OnClick="btnPremio_Click" CommandArgument='<%#Eval("item.Id")%>' CommandName="IdProdcuto" />
+                <a href="DatosClientes.aspx?valor=<%= item.ID %>" class="btn btn-dark">Quiero Este!</a>
             </div>
         </div>
         <% } %>

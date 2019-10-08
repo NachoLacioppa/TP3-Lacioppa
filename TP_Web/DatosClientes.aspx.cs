@@ -24,8 +24,16 @@ namespace TP_Web
         {
             AccesoDatos dt = new AccesoDatos();
 
-
-            dt.prepareStatement("update Vouchers set estado = 1 where CodigoVoucher = @CodigoVoucher");
+            dt.prepareStatement("insert into Clientes (DNI, Nombre, Apellido, EMail, Direccion, Ciudad, CodigoPostal, FechaRegistro) values (@DNI, @Nombre, @Apellido, @EMail, @Direccion, @Ciudad, @CodigoPostal, @FechaRegistro)");
+            dt.agregarParametro("@DNI", txtDni.Text);
+            dt.agregarParametro("@Nombre", txtNombre.Text);
+            dt.agregarParametro("@Apellido", txtApellido.Text);
+            dt.agregarParametro("@Email", txtEmail.Text);
+            dt.agregarParametro("@Direccion", txtDireccion.Text);
+            dt.agregarParametro("@Ciudad", txtCiudad.Text);
+            dt.agregarParametro("@CodigoPostal", txtPostal.Text);
+            dt.agregarParametro("@FechaRegistro", txtFecha.Text);
+            dt.ejecutarAccion();
             ScriptManager.RegisterStartupScript(this, this.GetType(), "alert", "alert('Registro Completo');window.location ='RegistroCorrecto.aspx';", true);
         }
     }

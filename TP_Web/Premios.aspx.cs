@@ -20,18 +20,6 @@ namespace TP_Web
         }
 
 
-        protected void btnPremio_Click(Object sender, CommandEventArgs e)
-        {
-            AccesoDatos dt = new AccesoDatos();
-            ProductoNegocio n = new ProductoNegocio();
-            
-  
-            dt.prepareStatement("update Vouchers set idProducto = @idProducto where CodigoVoucher = @Codigovoucher");
-            dt.agregarParametro("@CodigoVoucher", Context.Items["CodigoVoucher"]);
-            dt.agregarParametro("@idProducto", );
-            dt.ejecutarAccion();
-
-            ScriptManager.RegisterStartupScript(this, this.GetType(),"alert","alert('Premio elegido!');window.location ='DatosClientes.aspx';",true);
-        }
+       
     }
 }

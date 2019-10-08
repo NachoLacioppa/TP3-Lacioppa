@@ -33,3 +33,12 @@ C:\Users\Ignacio\Desktop\tp3Lacioppa\primera-app-2019-2-master\Negocio\obj\Debug
 C:\Users\Ignacio\Desktop\tp3Lacioppa\primera-app-2019-2-master\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Ignacio\Desktop\tp3Lacioppa\primera-app-2019-2-master\Negocio\obj\Debug\Negocio.dll
 C:\Users\Ignacio\Desktop\tp3Lacioppa\primera-app-2019-2-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\TP3-Lacioppa\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\TP3-Lacioppa\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\TP3-Lacioppa\Negocio\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\TP3-Lacioppa\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\TP3-Lacioppa\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3-Lacioppa\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP3-Lacioppa\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3-Lacioppa\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\TP3-Lacioppa\Negocio\obj\Debug\Negocio.pdb
